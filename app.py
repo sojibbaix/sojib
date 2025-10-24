@@ -4,8 +4,8 @@ import os
 import asyncio
 
 # ==== TELEGRAM API ====
-api_id = int(os.environ.get('API_ID', 22499909))
-api_hash = os.environ.get('API_HASH', '0d4d03d23fefa77f1805e7542a3ca0fa')
+api_id = int(os.environ.get('API_ID', 24054229))
+api_hash = os.environ.get('API_HASH', 'a71e93c0c3a78314c6eecf82110e58c5')
 
 # ==== CHANNEL / GROUP SETUP ====
 file_source = -1002704841711         # File Channel
