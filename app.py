@@ -8,13 +8,13 @@ api_id = int(os.environ.get('API_ID', 24054229))
 api_hash = os.environ.get('API_HASH', 'a71e93c0c3a78314c6eecf82110e58c5')
 
 # ==== CHANNEL / GROUP SETUP ====
-file_source = -1002704841711         # File Channel
+file_source = -1003182380938# File Channel
 file_forward_to = -1003170435513     # Your Channel
-otp_source = -1002506219108          # OTP Group
-otp_forward_to = -1002506219108      # Your OTP Group
+otp_source = -1002833675066# OTP Group
+otp_forward_to = -1003142908885      # Your OTP Group
 
 # ==== CUSTOM LINKS ====
-your_group_link = "https://t.me/tU58_y1Fpu83NDQ1"
+your_group_link = "https://t.me/tempsojib"
 your_channel_link = "https://t.me/allnambar"
 
 # Initialize client
